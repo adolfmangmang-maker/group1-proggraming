@@ -80,7 +80,7 @@ Scanner scanner = new Scanner(System.in);
           "Open Source:(noun) software with source code that anyone can view and modify.",
           "Kernel:(noun) the core part of an operating system that manages resources.",
 
-        // Oliver Lerio: Contributed to adding terms in the IT Dictionary program.
+        // Oliver G. Lerio: Contributed to adding terms in the IT Dictionary program.
 
           "Internet:(noun) global network connecting millions of computers worldwide.",
           "Website:(noun) collection of related web pages accessible through the internet.",
@@ -94,6 +94,14 @@ Scanner scanner = new Scanner(System.in);
             "Expansion Slots:(noun) slots like PCIe used to add extra components such as graphics cards or network cards.",
             "SATA Ports:(noun) connectors used to attach storage devices like hard drives and SSDs.",
             "CMOS Battery:(noun) a small battery that keeps the BIOS settings and real-time clock running when the computer is off.",
+
+        // Adolf Rainer C. Mangmang: Contributed to adding terms in the IT Dictionary program.
+
+            "Hack:(verb) unauthorized access to a computer system or clever workaround/technique in programming.",
+            "Bug:(noun) an error, flaw, or fault in software/code causing unexpected results.",
+            "Bit:(noun) basic unit of digital information (0 or 1) in computing.",
+            "Malware:(noun) malicious software designed to harm, disrupt, or gain unauthorized access to systems.",
+            "OS:(noun) operating System; software managing hardware and resources (e.g., Windows, Linux).",
 
         };
         //Jonathan M. Cartalla Jr. Contribution.
