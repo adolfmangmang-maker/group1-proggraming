@@ -25,7 +25,7 @@ public class Maybe {
             "Software:(noun) programs and operating systems used by a computer.",
             "Network:(noun) a group of interconnected computers.",
 
-        // Rashlie Jay Merced: Contributed to adding terms in the IT dictionary program.
+        // Rashlie Jay: Contributed to adding terms in the IT dictionary program.
 
             "Hardware:(noun) the physical components of a computer system.",
             "Program:(noun) a set of instructions that a computer follows to perform a task.",
@@ -75,14 +75,14 @@ public class Maybe {
           "Open Source:(noun) software with source code that anyone can view and modify.",
           "Kernel:(noun) the core part of an operating system that manages resources.",
 
-        // Oliver G. Lerio: Contributed to adding terms in the IT Dictionary program.
+          // Adolf Rainer Cordero Mangmang: Contributed to adding terms in the IT Dictionary program.
 
-          "Internet:(noun) global network connecting millions of computers worldwide.",
-          "Website:(noun) collection of related web pages accessible through the internet.",
-          "Password:(noun) secret string of characters used to access a device or account.",
-          "Email:(noun) online tool for sending and receiving messages over the internet.",
-          "Search Engine:(noun) online tool that helps find information, websites, and content on the internet.",
-
+          "Hack:(verb) unauthorized acess to a computer system or clever workaround/technique in programming.",
+          "Bug:(noun) an error, flaw, or fault in software/code causing unexpected results.",
+          "Bit:(noun) basic unit of digital information 0 or 1 in computing.",
+          "Malware:(noun) malicious software designed to harm, disrupt, or gain unauthorized access to systems.",
+          "OS:(noun) software managing hardware and resources.",
+         
         };
 
         System.out.print("Enter Term: ");                        //Jonathan
